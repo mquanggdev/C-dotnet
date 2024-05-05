@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS017_delegate\bin\Debug\net8.0\CS017_delegate.exe
+D:\C#\source\repos\CS017_delegate\bin\Debug\net8.0\CS017_delegate.deps.json
+D:\C#\source\repos\CS017_delegate\bin\Debug\net8.0\CS017_delegate.runtimeconfig.json
+D:\C#\source\repos\CS017_delegate\bin\Debug\net8.0\CS017_delegate.dll
+D:\C#\source\repos\CS017_delegate\bin\Debug\net8.0\CS017_delegate.pdb
+D:\C#\source\repos\CS017_delegate\obj\Debug\net8.0\CS017_delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS017_delegate\obj\Debug\net8.0\CS017_delegate.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS017_delegate\obj\Debug\net8.0\CS017_delegate.AssemblyInfo.cs
+D:\C#\source\repos\CS017_delegate\obj\Debug\net8.0\CS017_delegate.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS017_delegate\obj\Debug\net8.0\CS017_delegate.dll
+D:\C#\source\repos\CS017_delegate\obj\Debug\net8.0\refint\CS017_delegate.dll
+D:\C#\source\repos\CS017_delegate\obj\Debug\net8.0\CS017_delegate.pdb
+D:\C#\source\repos\CS017_delegate\obj\Debug\net8.0\CS017_delegate.genruntimeconfig.cache
+D:\C#\source\repos\CS017_delegate\obj\Debug\net8.0\ref\CS017_delegate.dll

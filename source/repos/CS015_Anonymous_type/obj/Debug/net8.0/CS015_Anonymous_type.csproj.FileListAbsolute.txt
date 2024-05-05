@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS015_Anonymous_type\bin\Debug\net8.0\CS015_Anonymous_type.exe
+D:\C#\source\repos\CS015_Anonymous_type\bin\Debug\net8.0\CS015_Anonymous_type.deps.json
+D:\C#\source\repos\CS015_Anonymous_type\bin\Debug\net8.0\CS015_Anonymous_type.runtimeconfig.json
+D:\C#\source\repos\CS015_Anonymous_type\bin\Debug\net8.0\CS015_Anonymous_type.dll
+D:\C#\source\repos\CS015_Anonymous_type\bin\Debug\net8.0\CS015_Anonymous_type.pdb
+D:\C#\source\repos\CS015_Anonymous_type\obj\Debug\net8.0\CS015_Anonymous_type.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS015_Anonymous_type\obj\Debug\net8.0\CS015_Anonymous_type.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS015_Anonymous_type\obj\Debug\net8.0\CS015_Anonymous_type.AssemblyInfo.cs
+D:\C#\source\repos\CS015_Anonymous_type\obj\Debug\net8.0\CS015_Anonymous_type.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS015_Anonymous_type\obj\Debug\net8.0\CS015_Anonymous_type.dll
+D:\C#\source\repos\CS015_Anonymous_type\obj\Debug\net8.0\refint\CS015_Anonymous_type.dll
+D:\C#\source\repos\CS015_Anonymous_type\obj\Debug\net8.0\CS015_Anonymous_type.pdb
+D:\C#\source\repos\CS015_Anonymous_type\obj\Debug\net8.0\CS015_Anonymous_type.genruntimeconfig.cache
+D:\C#\source\repos\CS015_Anonymous_type\obj\Debug\net8.0\ref\CS015_Anonymous_type.dll

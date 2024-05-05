@@ -1,0 +1,14 @@
+D:\C#\source2\repos2\CS002_Lession\bin\Debug\net8.0\CS002_Lession.exe
+D:\C#\source2\repos2\CS002_Lession\bin\Debug\net8.0\CS002_Lession.deps.json
+D:\C#\source2\repos2\CS002_Lession\bin\Debug\net8.0\CS002_Lession.runtimeconfig.json
+D:\C#\source2\repos2\CS002_Lession\bin\Debug\net8.0\CS002_Lession.dll
+D:\C#\source2\repos2\CS002_Lession\bin\Debug\net8.0\CS002_Lession.pdb
+D:\C#\source2\repos2\CS002_Lession\obj\Debug\net8.0\CS002_Lession.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source2\repos2\CS002_Lession\obj\Debug\net8.0\CS002_Lession.AssemblyInfoInputs.cache
+D:\C#\source2\repos2\CS002_Lession\obj\Debug\net8.0\CS002_Lession.AssemblyInfo.cs
+D:\C#\source2\repos2\CS002_Lession\obj\Debug\net8.0\CS002_Lession.csproj.CoreCompileInputs.cache
+D:\C#\source2\repos2\CS002_Lession\obj\Debug\net8.0\CS002_Lession.dll
+D:\C#\source2\repos2\CS002_Lession\obj\Debug\net8.0\refint\CS002_Lession.dll
+D:\C#\source2\repos2\CS002_Lession\obj\Debug\net8.0\CS002_Lession.pdb
+D:\C#\source2\repos2\CS002_Lession\obj\Debug\net8.0\CS002_Lession.genruntimeconfig.cache
+D:\C#\source2\repos2\CS002_Lession\obj\Debug\net8.0\ref\CS002_Lession.dll

@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS030_Attribute_Type\obj\Debug\net8.0\CS030_Attribute_Type.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS030_Attribute_Type\obj\Debug\net8.0\CS030_Attribute_Type.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS030_Attribute_Type\obj\Debug\net8.0\CS030_Attribute_Type.AssemblyInfo.cs
+D:\C#\source\repos\CS030_Attribute_Type\obj\Debug\net8.0\CS030_Attribute_Type.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS030_Attribute_Type\bin\Debug\net8.0\CS030_Attribute_Type.exe
+D:\C#\source\repos\CS030_Attribute_Type\bin\Debug\net8.0\CS030_Attribute_Type.deps.json
+D:\C#\source\repos\CS030_Attribute_Type\bin\Debug\net8.0\CS030_Attribute_Type.runtimeconfig.json
+D:\C#\source\repos\CS030_Attribute_Type\bin\Debug\net8.0\CS030_Attribute_Type.dll
+D:\C#\source\repos\CS030_Attribute_Type\bin\Debug\net8.0\CS030_Attribute_Type.pdb
+D:\C#\source\repos\CS030_Attribute_Type\obj\Debug\net8.0\CS030_Attribute_Type.dll
+D:\C#\source\repos\CS030_Attribute_Type\obj\Debug\net8.0\refint\CS030_Attribute_Type.dll
+D:\C#\source\repos\CS030_Attribute_Type\obj\Debug\net8.0\CS030_Attribute_Type.pdb
+D:\C#\source\repos\CS030_Attribute_Type\obj\Debug\net8.0\CS030_Attribute_Type.genruntimeconfig.cache
+D:\C#\source\repos\CS030_Attribute_Type\obj\Debug\net8.0\ref\CS030_Attribute_Type.dll

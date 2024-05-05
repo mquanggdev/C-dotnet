@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS023_ExceptionHandler\bin\Debug\net8.0\CS023_ExceptionHandler.exe
+D:\C#\source\repos\CS023_ExceptionHandler\bin\Debug\net8.0\CS023_ExceptionHandler.deps.json
+D:\C#\source\repos\CS023_ExceptionHandler\bin\Debug\net8.0\CS023_ExceptionHandler.runtimeconfig.json
+D:\C#\source\repos\CS023_ExceptionHandler\bin\Debug\net8.0\CS023_ExceptionHandler.dll
+D:\C#\source\repos\CS023_ExceptionHandler\bin\Debug\net8.0\CS023_ExceptionHandler.pdb
+D:\C#\source\repos\CS023_ExceptionHandler\obj\Debug\net8.0\CS023_ExceptionHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS023_ExceptionHandler\obj\Debug\net8.0\CS023_ExceptionHandler.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS023_ExceptionHandler\obj\Debug\net8.0\CS023_ExceptionHandler.AssemblyInfo.cs
+D:\C#\source\repos\CS023_ExceptionHandler\obj\Debug\net8.0\CS023_ExceptionHandler.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS023_ExceptionHandler\obj\Debug\net8.0\CS023_ExceptionHandler.dll
+D:\C#\source\repos\CS023_ExceptionHandler\obj\Debug\net8.0\refint\CS023_ExceptionHandler.dll
+D:\C#\source\repos\CS023_ExceptionHandler\obj\Debug\net8.0\CS023_ExceptionHandler.pdb
+D:\C#\source\repos\CS023_ExceptionHandler\obj\Debug\net8.0\CS023_ExceptionHandler.genruntimeconfig.cache
+D:\C#\source\repos\CS023_ExceptionHandler\obj\Debug\net8.0\ref\CS023_ExceptionHandler.dll

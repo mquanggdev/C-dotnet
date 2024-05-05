@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS21_StaticMethod\bin\Debug\net8.0\CS21_StaticMethod.exe
+D:\C#\source\repos\CS21_StaticMethod\bin\Debug\net8.0\CS21_StaticMethod.deps.json
+D:\C#\source\repos\CS21_StaticMethod\bin\Debug\net8.0\CS21_StaticMethod.runtimeconfig.json
+D:\C#\source\repos\CS21_StaticMethod\bin\Debug\net8.0\CS21_StaticMethod.dll
+D:\C#\source\repos\CS21_StaticMethod\bin\Debug\net8.0\CS21_StaticMethod.pdb
+D:\C#\source\repos\CS21_StaticMethod\obj\Debug\net8.0\CS21_StaticMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS21_StaticMethod\obj\Debug\net8.0\CS21_StaticMethod.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS21_StaticMethod\obj\Debug\net8.0\CS21_StaticMethod.AssemblyInfo.cs
+D:\C#\source\repos\CS21_StaticMethod\obj\Debug\net8.0\CS21_StaticMethod.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS21_StaticMethod\obj\Debug\net8.0\CS21_StaticMethod.dll
+D:\C#\source\repos\CS21_StaticMethod\obj\Debug\net8.0\refint\CS21_StaticMethod.dll
+D:\C#\source\repos\CS21_StaticMethod\obj\Debug\net8.0\CS21_StaticMethod.pdb
+D:\C#\source\repos\CS21_StaticMethod\obj\Debug\net8.0\CS21_StaticMethod.genruntimeconfig.cache
+D:\C#\source\repos\CS21_StaticMethod\obj\Debug\net8.0\ref\CS21_StaticMethod.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CS002_Lession/1.0.0": {
+        "runtime": {
+          "CS002_Lession.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS002_Lession/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

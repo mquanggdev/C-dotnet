@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS027_Async_await\bin\Debug\net8.0\CS027_Async_await.exe
+D:\C#\source\repos\CS027_Async_await\bin\Debug\net8.0\CS027_Async_await.deps.json
+D:\C#\source\repos\CS027_Async_await\bin\Debug\net8.0\CS027_Async_await.runtimeconfig.json
+D:\C#\source\repos\CS027_Async_await\bin\Debug\net8.0\CS027_Async_await.dll
+D:\C#\source\repos\CS027_Async_await\bin\Debug\net8.0\CS027_Async_await.pdb
+D:\C#\source\repos\CS027_Async_await\obj\Debug\net8.0\CS027_Async_await.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS027_Async_await\obj\Debug\net8.0\CS027_Async_await.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS027_Async_await\obj\Debug\net8.0\CS027_Async_await.AssemblyInfo.cs
+D:\C#\source\repos\CS027_Async_await\obj\Debug\net8.0\CS027_Async_await.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS027_Async_await\obj\Debug\net8.0\CS027_Async_await.dll
+D:\C#\source\repos\CS027_Async_await\obj\Debug\net8.0\refint\CS027_Async_await.dll
+D:\C#\source\repos\CS027_Async_await\obj\Debug\net8.0\CS027_Async_await.pdb
+D:\C#\source\repos\CS027_Async_await\obj\Debug\net8.0\CS027_Async_await.genruntimeconfig.cache
+D:\C#\source\repos\CS027_Async_await\obj\Debug\net8.0\ref\CS027_Async_await.dll

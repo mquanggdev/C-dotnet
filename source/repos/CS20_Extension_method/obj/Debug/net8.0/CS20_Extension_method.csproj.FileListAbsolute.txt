@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS20_Extension_method\bin\Debug\net8.0\CS20_Extension_method.exe
+D:\C#\source\repos\CS20_Extension_method\bin\Debug\net8.0\CS20_Extension_method.deps.json
+D:\C#\source\repos\CS20_Extension_method\bin\Debug\net8.0\CS20_Extension_method.runtimeconfig.json
+D:\C#\source\repos\CS20_Extension_method\bin\Debug\net8.0\CS20_Extension_method.dll
+D:\C#\source\repos\CS20_Extension_method\bin\Debug\net8.0\CS20_Extension_method.pdb
+D:\C#\source\repos\CS20_Extension_method\obj\Debug\net8.0\CS20_Extension_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS20_Extension_method\obj\Debug\net8.0\CS20_Extension_method.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS20_Extension_method\obj\Debug\net8.0\CS20_Extension_method.AssemblyInfo.cs
+D:\C#\source\repos\CS20_Extension_method\obj\Debug\net8.0\CS20_Extension_method.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS20_Extension_method\obj\Debug\net8.0\CS20_Extension_method.dll
+D:\C#\source\repos\CS20_Extension_method\obj\Debug\net8.0\refint\CS20_Extension_method.dll
+D:\C#\source\repos\CS20_Extension_method\obj\Debug\net8.0\CS20_Extension_method.pdb
+D:\C#\source\repos\CS20_Extension_method\obj\Debug\net8.0\CS20_Extension_method.genruntimeconfig.cache
+D:\C#\source\repos\CS20_Extension_method\obj\Debug\net8.0\ref\CS20_Extension_method.dll

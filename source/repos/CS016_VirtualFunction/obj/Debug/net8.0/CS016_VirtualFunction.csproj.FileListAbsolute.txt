@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS016_VirtualFunction\bin\Debug\net8.0\CS016_VirtualFunction.exe
+D:\C#\source\repos\CS016_VirtualFunction\bin\Debug\net8.0\CS016_VirtualFunction.deps.json
+D:\C#\source\repos\CS016_VirtualFunction\bin\Debug\net8.0\CS016_VirtualFunction.runtimeconfig.json
+D:\C#\source\repos\CS016_VirtualFunction\bin\Debug\net8.0\CS016_VirtualFunction.dll
+D:\C#\source\repos\CS016_VirtualFunction\bin\Debug\net8.0\CS016_VirtualFunction.pdb
+D:\C#\source\repos\CS016_VirtualFunction\obj\Debug\net8.0\CS016_VirtualFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS016_VirtualFunction\obj\Debug\net8.0\CS016_VirtualFunction.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS016_VirtualFunction\obj\Debug\net8.0\CS016_VirtualFunction.AssemblyInfo.cs
+D:\C#\source\repos\CS016_VirtualFunction\obj\Debug\net8.0\CS016_VirtualFunction.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS016_VirtualFunction\obj\Debug\net8.0\CS016_VirtualFunction.dll
+D:\C#\source\repos\CS016_VirtualFunction\obj\Debug\net8.0\refint\CS016_VirtualFunction.dll
+D:\C#\source\repos\CS016_VirtualFunction\obj\Debug\net8.0\CS016_VirtualFunction.pdb
+D:\C#\source\repos\CS016_VirtualFunction\obj\Debug\net8.0\CS016_VirtualFunction.genruntimeconfig.cache
+D:\C#\source\repos\CS016_VirtualFunction\obj\Debug\net8.0\ref\CS016_VirtualFunction.dll

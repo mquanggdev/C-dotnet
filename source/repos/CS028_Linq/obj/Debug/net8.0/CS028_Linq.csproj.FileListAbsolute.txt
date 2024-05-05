@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS028_Linq\bin\Debug\net8.0\CS028_Linq.exe
+D:\C#\source\repos\CS028_Linq\bin\Debug\net8.0\CS028_Linq.deps.json
+D:\C#\source\repos\CS028_Linq\bin\Debug\net8.0\CS028_Linq.runtimeconfig.json
+D:\C#\source\repos\CS028_Linq\bin\Debug\net8.0\CS028_Linq.dll
+D:\C#\source\repos\CS028_Linq\bin\Debug\net8.0\CS028_Linq.pdb
+D:\C#\source\repos\CS028_Linq\obj\Debug\net8.0\CS028_Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS028_Linq\obj\Debug\net8.0\CS028_Linq.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS028_Linq\obj\Debug\net8.0\CS028_Linq.AssemblyInfo.cs
+D:\C#\source\repos\CS028_Linq\obj\Debug\net8.0\CS028_Linq.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS028_Linq\obj\Debug\net8.0\CS028_Linq.dll
+D:\C#\source\repos\CS028_Linq\obj\Debug\net8.0\refint\CS028_Linq.dll
+D:\C#\source\repos\CS028_Linq\obj\Debug\net8.0\CS028_Linq.pdb
+D:\C#\source\repos\CS028_Linq\obj\Debug\net8.0\CS028_Linq.genruntimeconfig.cache
+D:\C#\source\repos\CS028_Linq\obj\Debug\net8.0\ref\CS028_Linq.dll

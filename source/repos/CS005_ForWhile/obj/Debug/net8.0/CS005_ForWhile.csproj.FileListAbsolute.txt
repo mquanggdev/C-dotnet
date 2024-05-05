@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS005_ForWhile\bin\Debug\net8.0\CS005_ForWhile.exe
+D:\C#\source\repos\CS005_ForWhile\bin\Debug\net8.0\CS005_ForWhile.deps.json
+D:\C#\source\repos\CS005_ForWhile\bin\Debug\net8.0\CS005_ForWhile.runtimeconfig.json
+D:\C#\source\repos\CS005_ForWhile\bin\Debug\net8.0\CS005_ForWhile.dll
+D:\C#\source\repos\CS005_ForWhile\bin\Debug\net8.0\CS005_ForWhile.pdb
+D:\C#\source\repos\CS005_ForWhile\obj\Debug\net8.0\CS005_ForWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS005_ForWhile\obj\Debug\net8.0\CS005_ForWhile.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS005_ForWhile\obj\Debug\net8.0\CS005_ForWhile.AssemblyInfo.cs
+D:\C#\source\repos\CS005_ForWhile\obj\Debug\net8.0\CS005_ForWhile.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS005_ForWhile\obj\Debug\net8.0\CS005_ForWhile.dll
+D:\C#\source\repos\CS005_ForWhile\obj\Debug\net8.0\refint\CS005_ForWhile.dll
+D:\C#\source\repos\CS005_ForWhile\obj\Debug\net8.0\CS005_ForWhile.pdb
+D:\C#\source\repos\CS005_ForWhile\obj\Debug\net8.0\CS005_ForWhile.genruntimeconfig.cache
+D:\C#\source\repos\CS005_ForWhile\obj\Debug\net8.0\ref\CS005_ForWhile.dll

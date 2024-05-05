@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS11_AllString\bin\Debug\net8.0\CS11_AllString.exe
+D:\C#\source\repos\CS11_AllString\bin\Debug\net8.0\CS11_AllString.deps.json
+D:\C#\source\repos\CS11_AllString\bin\Debug\net8.0\CS11_AllString.runtimeconfig.json
+D:\C#\source\repos\CS11_AllString\bin\Debug\net8.0\CS11_AllString.dll
+D:\C#\source\repos\CS11_AllString\bin\Debug\net8.0\CS11_AllString.pdb
+D:\C#\source\repos\CS11_AllString\obj\Debug\net8.0\CS11_AllString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS11_AllString\obj\Debug\net8.0\CS11_AllString.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS11_AllString\obj\Debug\net8.0\CS11_AllString.AssemblyInfo.cs
+D:\C#\source\repos\CS11_AllString\obj\Debug\net8.0\CS11_AllString.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS11_AllString\obj\Debug\net8.0\CS11_AllString.dll
+D:\C#\source\repos\CS11_AllString\obj\Debug\net8.0\refint\CS11_AllString.dll
+D:\C#\source\repos\CS11_AllString\obj\Debug\net8.0\CS11_AllString.pdb
+D:\C#\source\repos\CS11_AllString\obj\Debug\net8.0\CS11_AllString.genruntimeconfig.cache
+D:\C#\source\repos\CS11_AllString\obj\Debug\net8.0\ref\CS11_AllString.dll

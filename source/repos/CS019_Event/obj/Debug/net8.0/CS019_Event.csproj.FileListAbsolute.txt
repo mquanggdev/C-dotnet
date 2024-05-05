@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS019_Event\obj\Debug\net8.0\CS019_Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS019_Event\obj\Debug\net8.0\CS019_Event.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS019_Event\obj\Debug\net8.0\CS019_Event.AssemblyInfo.cs
+D:\C#\source\repos\CS019_Event\obj\Debug\net8.0\CS019_Event.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS019_Event\bin\Debug\net8.0\CS019_Event.exe
+D:\C#\source\repos\CS019_Event\bin\Debug\net8.0\CS019_Event.deps.json
+D:\C#\source\repos\CS019_Event\bin\Debug\net8.0\CS019_Event.runtimeconfig.json
+D:\C#\source\repos\CS019_Event\bin\Debug\net8.0\CS019_Event.dll
+D:\C#\source\repos\CS019_Event\bin\Debug\net8.0\CS019_Event.pdb
+D:\C#\source\repos\CS019_Event\obj\Debug\net8.0\CS019_Event.dll
+D:\C#\source\repos\CS019_Event\obj\Debug\net8.0\refint\CS019_Event.dll
+D:\C#\source\repos\CS019_Event\obj\Debug\net8.0\CS019_Event.pdb
+D:\C#\source\repos\CS019_Event\obj\Debug\net8.0\CS019_Event.genruntimeconfig.cache
+D:\C#\source\repos\CS019_Event\obj\Debug\net8.0\ref\CS019_Event.dll

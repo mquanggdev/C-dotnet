@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS13_NameSpace\bin\Debug\net8.0\CS13_NameSpace.exe
+D:\C#\source\repos\CS13_NameSpace\bin\Debug\net8.0\CS13_NameSpace.deps.json
+D:\C#\source\repos\CS13_NameSpace\bin\Debug\net8.0\CS13_NameSpace.runtimeconfig.json
+D:\C#\source\repos\CS13_NameSpace\bin\Debug\net8.0\CS13_NameSpace.dll
+D:\C#\source\repos\CS13_NameSpace\bin\Debug\net8.0\CS13_NameSpace.pdb
+D:\C#\source\repos\CS13_NameSpace\obj\Debug\net8.0\CS13_NameSpace.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS13_NameSpace\obj\Debug\net8.0\CS13_NameSpace.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS13_NameSpace\obj\Debug\net8.0\CS13_NameSpace.AssemblyInfo.cs
+D:\C#\source\repos\CS13_NameSpace\obj\Debug\net8.0\CS13_NameSpace.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS13_NameSpace\obj\Debug\net8.0\CS13_NameSpace.dll
+D:\C#\source\repos\CS13_NameSpace\obj\Debug\net8.0\refint\CS13_NameSpace.dll
+D:\C#\source\repos\CS13_NameSpace\obj\Debug\net8.0\CS13_NameSpace.pdb
+D:\C#\source\repos\CS13_NameSpace\obj\Debug\net8.0\CS13_NameSpace.genruntimeconfig.cache
+D:\C#\source\repos\CS13_NameSpace\obj\Debug\net8.0\ref\CS13_NameSpace.dll

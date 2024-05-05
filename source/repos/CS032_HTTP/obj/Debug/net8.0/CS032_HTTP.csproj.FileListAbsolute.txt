@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS032_HTTP\bin\Debug\net8.0\CS032_HTTP.exe
+D:\C#\source\repos\CS032_HTTP\bin\Debug\net8.0\CS032_HTTP.deps.json
+D:\C#\source\repos\CS032_HTTP\bin\Debug\net8.0\CS032_HTTP.runtimeconfig.json
+D:\C#\source\repos\CS032_HTTP\bin\Debug\net8.0\CS032_HTTP.dll
+D:\C#\source\repos\CS032_HTTP\bin\Debug\net8.0\CS032_HTTP.pdb
+D:\C#\source\repos\CS032_HTTP\obj\Debug\net8.0\CS032_HTTP.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS032_HTTP\obj\Debug\net8.0\CS032_HTTP.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS032_HTTP\obj\Debug\net8.0\CS032_HTTP.AssemblyInfo.cs
+D:\C#\source\repos\CS032_HTTP\obj\Debug\net8.0\CS032_HTTP.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS032_HTTP\obj\Debug\net8.0\CS032_HTTP.dll
+D:\C#\source\repos\CS032_HTTP\obj\Debug\net8.0\refint\CS032_HTTP.dll
+D:\C#\source\repos\CS032_HTTP\obj\Debug\net8.0\CS032_HTTP.pdb
+D:\C#\source\repos\CS032_HTTP\obj\Debug\net8.0\CS032_HTTP.genruntimeconfig.cache
+D:\C#\source\repos\CS032_HTTP\obj\Debug\net8.0\ref\CS032_HTTP.dll

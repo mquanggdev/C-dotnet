@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS018_Lambda\obj\Debug\net8.0\CS018_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS018_Lambda\obj\Debug\net8.0\CS018_Lambda.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS018_Lambda\obj\Debug\net8.0\CS018_Lambda.AssemblyInfo.cs
+D:\C#\source\repos\CS018_Lambda\obj\Debug\net8.0\CS018_Lambda.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS018_Lambda\bin\Debug\net8.0\CS018_Lambda.exe
+D:\C#\source\repos\CS018_Lambda\bin\Debug\net8.0\CS018_Lambda.deps.json
+D:\C#\source\repos\CS018_Lambda\bin\Debug\net8.0\CS018_Lambda.runtimeconfig.json
+D:\C#\source\repos\CS018_Lambda\bin\Debug\net8.0\CS018_Lambda.dll
+D:\C#\source\repos\CS018_Lambda\bin\Debug\net8.0\CS018_Lambda.pdb
+D:\C#\source\repos\CS018_Lambda\obj\Debug\net8.0\CS018_Lambda.dll
+D:\C#\source\repos\CS018_Lambda\obj\Debug\net8.0\refint\CS018_Lambda.dll
+D:\C#\source\repos\CS018_Lambda\obj\Debug\net8.0\CS018_Lambda.pdb
+D:\C#\source\repos\CS018_Lambda\obj\Debug\net8.0\CS018_Lambda.genruntimeconfig.cache
+D:\C#\source\repos\CS018_Lambda\obj\Debug\net8.0\ref\CS018_Lambda.dll

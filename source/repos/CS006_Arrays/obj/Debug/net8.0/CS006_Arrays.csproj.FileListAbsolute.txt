@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS006_Arrays\bin\Debug\net8.0\CS006_Arrays.exe
+D:\C#\source\repos\CS006_Arrays\bin\Debug\net8.0\CS006_Arrays.deps.json
+D:\C#\source\repos\CS006_Arrays\bin\Debug\net8.0\CS006_Arrays.runtimeconfig.json
+D:\C#\source\repos\CS006_Arrays\bin\Debug\net8.0\CS006_Arrays.dll
+D:\C#\source\repos\CS006_Arrays\bin\Debug\net8.0\CS006_Arrays.pdb
+D:\C#\source\repos\CS006_Arrays\obj\Debug\net8.0\CS006_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS006_Arrays\obj\Debug\net8.0\CS006_Arrays.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS006_Arrays\obj\Debug\net8.0\CS006_Arrays.AssemblyInfo.cs
+D:\C#\source\repos\CS006_Arrays\obj\Debug\net8.0\CS006_Arrays.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS006_Arrays\obj\Debug\net8.0\CS006_Arrays.dll
+D:\C#\source\repos\CS006_Arrays\obj\Debug\net8.0\refint\CS006_Arrays.dll
+D:\C#\source\repos\CS006_Arrays\obj\Debug\net8.0\CS006_Arrays.pdb
+D:\C#\source\repos\CS006_Arrays\obj\Debug\net8.0\CS006_Arrays.genruntimeconfig.cache
+D:\C#\source\repos\CS006_Arrays\obj\Debug\net8.0\ref\CS006_Arrays.dll

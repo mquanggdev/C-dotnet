@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS10_OOP\bin\Debug\net8.0\CS10_OOP.exe
+D:\C#\source\repos\CS10_OOP\bin\Debug\net8.0\CS10_OOP.deps.json
+D:\C#\source\repos\CS10_OOP\bin\Debug\net8.0\CS10_OOP.runtimeconfig.json
+D:\C#\source\repos\CS10_OOP\bin\Debug\net8.0\CS10_OOP.dll
+D:\C#\source\repos\CS10_OOP\bin\Debug\net8.0\CS10_OOP.pdb
+D:\C#\source\repos\CS10_OOP\obj\Debug\net8.0\CS10_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS10_OOP\obj\Debug\net8.0\CS10_OOP.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS10_OOP\obj\Debug\net8.0\CS10_OOP.AssemblyInfo.cs
+D:\C#\source\repos\CS10_OOP\obj\Debug\net8.0\CS10_OOP.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS10_OOP\obj\Debug\net8.0\CS10_OOP.dll
+D:\C#\source\repos\CS10_OOP\obj\Debug\net8.0\refint\CS10_OOP.dll
+D:\C#\source\repos\CS10_OOP\obj\Debug\net8.0\CS10_OOP.pdb
+D:\C#\source\repos\CS10_OOP\obj\Debug\net8.0\CS10_OOP.genruntimeconfig.cache
+D:\C#\source\repos\CS10_OOP\obj\Debug\net8.0\ref\CS10_OOP.dll

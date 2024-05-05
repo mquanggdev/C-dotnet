@@ -1,0 +1,14 @@
+D:\C#\source2\repos2\CS003_String\bin\Debug\net8.0\CS003_String.exe
+D:\C#\source2\repos2\CS003_String\bin\Debug\net8.0\CS003_String.deps.json
+D:\C#\source2\repos2\CS003_String\bin\Debug\net8.0\CS003_String.runtimeconfig.json
+D:\C#\source2\repos2\CS003_String\bin\Debug\net8.0\CS003_String.dll
+D:\C#\source2\repos2\CS003_String\bin\Debug\net8.0\CS003_String.pdb
+D:\C#\source2\repos2\CS003_String\obj\Debug\net8.0\CS003_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source2\repos2\CS003_String\obj\Debug\net8.0\CS003_String.AssemblyInfoInputs.cache
+D:\C#\source2\repos2\CS003_String\obj\Debug\net8.0\CS003_String.AssemblyInfo.cs
+D:\C#\source2\repos2\CS003_String\obj\Debug\net8.0\CS003_String.csproj.CoreCompileInputs.cache
+D:\C#\source2\repos2\CS003_String\obj\Debug\net8.0\CS003_String.dll
+D:\C#\source2\repos2\CS003_String\obj\Debug\net8.0\refint\CS003_String.dll
+D:\C#\source2\repos2\CS003_String\obj\Debug\net8.0\CS003_String.pdb
+D:\C#\source2\repos2\CS003_String\obj\Debug\net8.0\CS003_String.genruntimeconfig.cache
+D:\C#\source2\repos2\CS003_String\obj\Debug\net8.0\ref\CS003_String.dll

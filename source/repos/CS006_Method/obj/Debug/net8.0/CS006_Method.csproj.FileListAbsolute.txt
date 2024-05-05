@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS006_Method\obj\Debug\net8.0\CS006_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS006_Method\obj\Debug\net8.0\CS006_Method.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS006_Method\obj\Debug\net8.0\CS006_Method.AssemblyInfo.cs
+D:\C#\source\repos\CS006_Method\obj\Debug\net8.0\CS006_Method.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS006_Method\bin\Debug\net8.0\CS006_Method.exe
+D:\C#\source\repos\CS006_Method\bin\Debug\net8.0\CS006_Method.deps.json
+D:\C#\source\repos\CS006_Method\bin\Debug\net8.0\CS006_Method.runtimeconfig.json
+D:\C#\source\repos\CS006_Method\bin\Debug\net8.0\CS006_Method.dll
+D:\C#\source\repos\CS006_Method\bin\Debug\net8.0\CS006_Method.pdb
+D:\C#\source\repos\CS006_Method\obj\Debug\net8.0\CS006_Method.dll
+D:\C#\source\repos\CS006_Method\obj\Debug\net8.0\refint\CS006_Method.dll
+D:\C#\source\repos\CS006_Method\obj\Debug\net8.0\CS006_Method.pdb
+D:\C#\source\repos\CS006_Method\obj\Debug\net8.0\CS006_Method.genruntimeconfig.cache
+D:\C#\source\repos\CS006_Method\obj\Debug\net8.0\ref\CS006_Method.dll

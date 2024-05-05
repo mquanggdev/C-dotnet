@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS12_OOP_Inheritane\bin\Debug\net8.0\CS12_OOP_Inheritane.exe
+D:\C#\source\repos\CS12_OOP_Inheritane\bin\Debug\net8.0\CS12_OOP_Inheritane.deps.json
+D:\C#\source\repos\CS12_OOP_Inheritane\bin\Debug\net8.0\CS12_OOP_Inheritane.runtimeconfig.json
+D:\C#\source\repos\CS12_OOP_Inheritane\bin\Debug\net8.0\CS12_OOP_Inheritane.dll
+D:\C#\source\repos\CS12_OOP_Inheritane\bin\Debug\net8.0\CS12_OOP_Inheritane.pdb
+D:\C#\source\repos\CS12_OOP_Inheritane\obj\Debug\net8.0\CS12_OOP_Inheritane.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS12_OOP_Inheritane\obj\Debug\net8.0\CS12_OOP_Inheritane.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS12_OOP_Inheritane\obj\Debug\net8.0\CS12_OOP_Inheritane.AssemblyInfo.cs
+D:\C#\source\repos\CS12_OOP_Inheritane\obj\Debug\net8.0\CS12_OOP_Inheritane.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS12_OOP_Inheritane\obj\Debug\net8.0\CS12_OOP_Inheritane.dll
+D:\C#\source\repos\CS12_OOP_Inheritane\obj\Debug\net8.0\refint\CS12_OOP_Inheritane.dll
+D:\C#\source\repos\CS12_OOP_Inheritane\obj\Debug\net8.0\CS12_OOP_Inheritane.pdb
+D:\C#\source\repos\CS12_OOP_Inheritane\obj\Debug\net8.0\CS12_OOP_Inheritane.genruntimeconfig.cache
+D:\C#\source\repos\CS12_OOP_Inheritane\obj\Debug\net8.0\ref\CS12_OOP_Inheritane.dll

@@ -1,0 +1,14 @@
+D:\C#\source2\repos2\CS004_IfElse\obj\Debug\net8.0\CS004_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source2\repos2\CS004_IfElse\obj\Debug\net8.0\CS004_IfElse.AssemblyInfoInputs.cache
+D:\C#\source2\repos2\CS004_IfElse\obj\Debug\net8.0\CS004_IfElse.AssemblyInfo.cs
+D:\C#\source2\repos2\CS004_IfElse\obj\Debug\net8.0\CS004_IfElse.csproj.CoreCompileInputs.cache
+D:\C#\source2\repos2\CS004_IfElse\bin\Debug\net8.0\CS004_IfElse.exe
+D:\C#\source2\repos2\CS004_IfElse\bin\Debug\net8.0\CS004_IfElse.deps.json
+D:\C#\source2\repos2\CS004_IfElse\bin\Debug\net8.0\CS004_IfElse.runtimeconfig.json
+D:\C#\source2\repos2\CS004_IfElse\bin\Debug\net8.0\CS004_IfElse.dll
+D:\C#\source2\repos2\CS004_IfElse\bin\Debug\net8.0\CS004_IfElse.pdb
+D:\C#\source2\repos2\CS004_IfElse\obj\Debug\net8.0\CS004_IfElse.dll
+D:\C#\source2\repos2\CS004_IfElse\obj\Debug\net8.0\refint\CS004_IfElse.dll
+D:\C#\source2\repos2\CS004_IfElse\obj\Debug\net8.0\CS004_IfElse.pdb
+D:\C#\source2\repos2\CS004_IfElse\obj\Debug\net8.0\CS004_IfElse.genruntimeconfig.cache
+D:\C#\source2\repos2\CS004_IfElse\obj\Debug\net8.0\ref\CS004_IfElse.dll

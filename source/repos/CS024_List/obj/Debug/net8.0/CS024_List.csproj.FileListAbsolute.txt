@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS024_List\bin\Debug\net8.0\CS024_List.exe
+D:\C#\source\repos\CS024_List\bin\Debug\net8.0\CS024_List.deps.json
+D:\C#\source\repos\CS024_List\bin\Debug\net8.0\CS024_List.runtimeconfig.json
+D:\C#\source\repos\CS024_List\bin\Debug\net8.0\CS024_List.dll
+D:\C#\source\repos\CS024_List\bin\Debug\net8.0\CS024_List.pdb
+D:\C#\source\repos\CS024_List\obj\Debug\net8.0\CS024_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS024_List\obj\Debug\net8.0\CS024_List.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS024_List\obj\Debug\net8.0\CS024_List.AssemblyInfo.cs
+D:\C#\source\repos\CS024_List\obj\Debug\net8.0\CS024_List.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS024_List\obj\Debug\net8.0\CS024_List.dll
+D:\C#\source\repos\CS024_List\obj\Debug\net8.0\refint\CS024_List.dll
+D:\C#\source\repos\CS024_List\obj\Debug\net8.0\CS024_List.pdb
+D:\C#\source\repos\CS024_List\obj\Debug\net8.0\CS024_List.genruntimeconfig.cache
+D:\C#\source\repos\CS024_List\obj\Debug\net8.0\ref\CS024_List.dll

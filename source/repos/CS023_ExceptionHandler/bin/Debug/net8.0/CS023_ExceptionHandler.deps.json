@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CS023_ExceptionHandler/1.0.0": {
+        "runtime": {
+          "CS023_ExceptionHandler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS023_ExceptionHandler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\C#\source\repos\CS014_Generic\bin\Debug\net8.0\CS014_Generic.exe
+D:\C#\source\repos\CS014_Generic\bin\Debug\net8.0\CS014_Generic.deps.json
+D:\C#\source\repos\CS014_Generic\bin\Debug\net8.0\CS014_Generic.runtimeconfig.json
+D:\C#\source\repos\CS014_Generic\bin\Debug\net8.0\CS014_Generic.dll
+D:\C#\source\repos\CS014_Generic\bin\Debug\net8.0\CS014_Generic.pdb
+D:\C#\source\repos\CS014_Generic\obj\Debug\net8.0\CS014_Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\source\repos\CS014_Generic\obj\Debug\net8.0\CS014_Generic.AssemblyInfoInputs.cache
+D:\C#\source\repos\CS014_Generic\obj\Debug\net8.0\CS014_Generic.AssemblyInfo.cs
+D:\C#\source\repos\CS014_Generic\obj\Debug\net8.0\CS014_Generic.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\CS014_Generic\obj\Debug\net8.0\CS014_Generic.dll
+D:\C#\source\repos\CS014_Generic\obj\Debug\net8.0\refint\CS014_Generic.dll
+D:\C#\source\repos\CS014_Generic\obj\Debug\net8.0\CS014_Generic.pdb
+D:\C#\source\repos\CS014_Generic\obj\Debug\net8.0\CS014_Generic.genruntimeconfig.cache
+D:\C#\source\repos\CS014_Generic\obj\Debug\net8.0\ref\CS014_Generic.dll

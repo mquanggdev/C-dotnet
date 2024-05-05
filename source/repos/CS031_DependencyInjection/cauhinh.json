@@ -1,0 +1,11 @@
+{
+    "section1" : {
+        "key1":"Xin Chao C#",
+        "key2": 21212
+    },
+
+    "MyServicOptions" : {
+        "data1" : "Hoc Dependency Inject" ,
+        "data2" : 12445
+    }
+}

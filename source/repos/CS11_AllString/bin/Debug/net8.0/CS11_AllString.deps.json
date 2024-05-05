@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CS11_AllString/1.0.0": {
+        "runtime": {
+          "CS11_AllString.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS11_AllString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

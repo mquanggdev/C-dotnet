@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CS21_StaticMethod/1.0.0": {
+        "runtime": {
+          "CS21_StaticMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS21_StaticMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
